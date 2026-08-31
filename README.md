@@ -1,6 +1,6 @@
 # mateuscazuza
 
-💻 **Especialista em Dados e Estudante de Desenvolvimento de Sistemas | Focado em Python, HTML e CSS**
+💻 **Especialista em Dados e Estudante de Desenvolvimento de Sistemas | Focado em Python, SQL, HTML e CSS**
 ---
 
 ## 🚀 Sobre mim
